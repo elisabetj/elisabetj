@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elisabetj
 
-- 🌱 I’m currently studying Software Engineering at the University of Iceland
+- 🌱 I’m currently studying Software Engineering at the Reykjavik University
 
 <!---
 elisabetj/elisabetj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
